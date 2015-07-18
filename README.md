@@ -1,6 +1,6 @@
 # Alt / React Demo
 
-Demo react project using Alt.js, React.js and server side rendering.
+Demo react project using Reflux.js, React.js and server side rendering.
 
 In order to run the demo, first install the NPM packages with 
 
